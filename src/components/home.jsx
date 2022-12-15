@@ -1,15 +1,23 @@
 import React from "react";
-import NavBar from '../components/navBar';
+import '../styles/home.css'
 
 const Hero = () => {
     return(
-        <>       
-         <NavBar/>
+              
+         
         <div className="Hero">
-            <h1>Helloooo</h1>
+           
+           <div className="containerRight">
+
+           </div>
+           <div className="containerLeft">
+
+                <img alt="slogan" src="/images/logo.jpeg" />
+
+           </div>
 
         </div>
-        </>
+        
 
     )
 }
