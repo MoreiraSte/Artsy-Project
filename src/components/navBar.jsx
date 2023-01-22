@@ -19,7 +19,7 @@ const NavBar = () => {
              </div>
 
              <div id="navLink">
-             <a href="#">About Site</a>
+             <a href="#about">About Site</a>
              </div>
 
              <div id="navLink">

@@ -11,11 +11,11 @@ const Hero = () => {
 
                 <div className="social">
                     <div>
-                        <a href='#'><img alt="social_tumblr" src="/images/tumblr_icon.png"/></a>
+                        <a href='https://www.tumblr.com/blog/tephdraw-blog' target="_blank"><img alt="social_tumblr" src="/images/tumblr_icon.png"/></a>
                         
                     </div>
                     <div>    
-                        <a href='#'><img alt="social_tumblr" src="/images/icon_insta.png"/></a>
+                        <a href='https://www.instagram.com/sthe_dreams/' target="_blank"><img alt="social_tumblr" src="/images/icon_insta.png"/></a>
                     </div>
                 </div>
            </div>
